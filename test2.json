@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "first_name": "Easter",
+        "last_name": "Duerden",
+        "email": "eduerden0@arstechnica.com",
+        "age": 39
+    },
+    {
+        "id": 2,
+        "first_name": "Burt",
+        "last_name": "Davitashvili",
+        "email": "bdavitashvili1@usgs.gov",
+        "age": 30
+    }
+]
